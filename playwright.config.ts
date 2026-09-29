@@ -7,4 +7,5 @@ export default defineConfig({
   use: {
     baseURL: BASE_URL,
   },
+  reporter: "html", 
 });
